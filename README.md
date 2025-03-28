@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yonatan-tize" alt="yonatan-tize" /></a> </p>
 
-- 🔭 I’m currently working as **a backend Engineer.**
+- 🔭 I’m currently working as **a Full-Stack Engineer (Backend-Focused).**
 
-- 🌱 I’m currently learning **Microservices and Blockchain.**
+- 🌱 I’m currently learning **Microservices, DevOps and Blockchain.**
 
 - 👯 I’m looking to collaborate on **any front-end and backend Projects.**
 
