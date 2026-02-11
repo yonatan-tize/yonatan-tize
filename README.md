@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yonatan Tizazu</h1>
-<h3 align="center">A passionate full stack developer from Ethiopia.</h3>
+<h3 align="center">A Computer and Software engineer from Ethiopia.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yonatan-tize" alt="yonatan-tize" /></a> </p>
 
 - 🔭 I’m currently working as **a Full-Stack Engineer (Backend-Focused).**
 
-- 🌱 I’m currently learning **Microservices, DevOps and Blockchain.**
+- 🌱 I’m am comfortable working on **Microservices, DevOps and Blockchain.**
 
-- 👯 I’m looking to collaborate on **any front-end and backend Projects.**
+- 👯 I’m looking to collaborate on **Large scale and impactful Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yonatan-tize?tab=repositories](https://github.com/yonatan-tize?tab=repositories)
 
